@@ -1,0 +1,10 @@
+Who won the last football World Cup? The options are: 1.Brazil 2.Argentina 3.Spain 4.Germany
+Germany
+Who won the Golden Boot? The options are: 1.Cristiano Ronaldo 2.James Rodriguez 3.Lionel Messi 4.Tony Kroos 
+James Rodriguez
+Which team conceded the most goals? The options are: 1.Netherlands 2.Spain 3.Nigeria 4.Brazil
+Brazil
+How many European teams made into the last 16 stage? The options are: 1.six 2.five 3.seven 4.four  
+six
+Where was the first game played? The options are: 1.Rio De Janerio 2.Sao Paolo 3.Medellin 4.London
+Sao Paolo
